@@ -1,278 +1,95 @@
-<div align="center">
+<!--
+  사용법
+  1. GitHub에서 "본인 아이디와 똑같은 이름"의 public 저장소를 만든다. (예: github.com/johndoe/johndoe)
+  2. 이 파일을 README.md 로 저장소 루트에 올린다.
+  3. 아래의 USERNAME, 대괄호 [ ] 안의 내용, 링크를 본인 정보로 바꾼다.
+-->
 
-<!---->
+<!-- ───────────── 배너 ───────────── -->
+<p align="center">
+  <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,100:1f6feb&height=180&section=header&text=&fontSize=0" alt="banner" />
+</p>
 
-<br/>
+<!-- ───────────── 타이틀 ───────────── -->
+<hr>
+<h1 align="center">Im aden]</h1>
+<hr>
 
-<img src="https://readme-typing-svg.demolab.com?font=Space+Mono&weight=600&size=20&pause=1100&color=C59BFF&center=true&vCenter=true&width=850&height=70&lines=Hi!+I'm+adencw1+%F0%9F%91%8B" width="100%" alt="Animated introduction with four rotating messages" />
-
-<br/>
-
-<a href="https://x.com/your-handle"><img src="https://img.shields.io/badge/X-07050C?style=for-the-badge&logo=x&logoColor=white" alt="X" /></a>
-<a href="https://github.com/adencw1"><img src="https://img.shields.io/badge/GitHub-A66CCD?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" /></a>
-<a href="https://heyyappa.com"><img src="https://img.shields.io/badge/Yappa-C59BFF?style=for-the-badge&logoColor=07050C" alt="Yappa" /></a>
-<a href="https://junohauz.xyz"><img src="https://img.shields.io/badge/Junohauz-07050C?style=for-the-badge&logoColor=white" alt="Junohauz" /></a>
-
-<br/><br/>
-
-<img src="https://komarev.com/ghpvc/?username=adencw1&label=PROFILE+VIEWS&color=C59BFF&style=flat-square" alt="Profile views" />
-
-</div>
-
----
-
-## 01. whoami
-
-```typescript
-const aden = {
-  github: "@adencw1",
-  role: "✏️ your role",
-  aka: "Mewtwo, Tech Angel, Famous Baddie, Emily",
-  currently: "✏️ your currently",
-  interests: [
-    "Consumer Technology",
-    "AI & Creative Technology",
-    "3D Wearable Fashion",
-    "Onchain Products",
-    "Neurotechnology"
-  ],
-  languages: ["TypeScript", "JavaScript", "Move", "ATC Radio English"],
-  philosophy: "Make useful things, then make them fun and fundable."
-};
-```
-
-<em>✏️ A sentence about you and what you do.</em>
-
-<em>✏️ A sentence about you and what you do.</em>
-
-<em>✏️ A sentence about you and what you do.</em>
-
-> nobody owns a fox.
-
----
-
-## 02. tech & tools
-
-<div align="center">
-
-<img src="https://skillicons.dev/icons?i=ts,js,html,css,bash,git,github,vscode&perline=8&theme=dark" alt="Development tools" />
-
-<br/><br/>
-
-<img src="https://img.shields.io/badge/TypeScript-07050C?style=flat-square&logo=typescript&logoColor=white" alt="TypeScript" />
-<img src="https://img.shields.io/badge/JavaScript-A66CCD?style=flat-square&logo=javascript&logoColor=white" alt="JavaScript" />
-<img src="https://img.shields.io/badge/Move-C59BFF?style=flat-square&logoColor=07050C" alt="Move" />
-<img src="https://img.shields.io/badge/HTML-07050C?style=flat-square&logo=html5&logoColor=white" alt="HTML" />
-<img src="https://img.shields.io/badge/CSS-A66CCD?style=flat-square&logo=css&logoColor=white" alt="CSS" />
-<img src="https://img.shields.io/badge/Shell-C59BFF?style=flat-square&logo=gnubash&logoColor=07050C" alt="Shell" />
-<img src="https://img.shields.io/badge/SQL-07050C?style=flat-square&logo=postgresql&logoColor=white" alt="SQL" />
-
-<br/><br/>
-
-<em>✏️ The tools you reach for, in a sentence.</em>
-
-</div>
-
----
-
-## 03. things i've built
+<!-- ───────────── Know About Me ───────────── -->
+## 🔗 Know About Me
 
 <table>
-<tr>
-<td width="50%" valign="top">
-
-### claude-cursor-tips-for-creatives
-
-<em>✏️ Say this in your own words.</em>
-
-No terminal required.
-
-<em>✏️ Say this in your own words.</em>
-
-<a href="https://github.com/adencw1?tab=repositories">
-<img src="https://img.shields.io/badge/EXPLORE_REPO-07050C?style=for-the-badge&logo=github&logoColor=white" />
-</a>
-
-</td>
-<td width="50%" valign="top">
-
-### token-slayer
-
-<em>✏️ Say this in your own words.</em>
-
-<em>✏️ Say this in your own words.</em>
-
-<em>✏️ Say this in your own words.</em>
-
-<a href="https://github.com/adencw1?tab=repositories">
-<img src="https://img.shields.io/badge/EXPLORE_REPO-A66CCD?style=for-the-badge&logo=github&logoColor=white" />
-</a>
-
-</td>
-</tr>
-<tr>
-<td width="50%" valign="top">
-
-### qonnek
-
-<em>✏️ Say this in your own words.</em>
-
-<em>✏️ Say this in your own words.</em>
-
-<em>✏️ Say this in your own words.</em>
-
-<a href="https://github.com/adencw1?tab=repositories">
-<img src="https://img.shields.io/badge/EXPLORE_REPO-A66CCD?style=for-the-badge&logo=github&logoColor=white" />
-</a>
-
-</td>
-<td width="50%" valign="top">
-
-### STTH-buildathon
-
-<em>✏️ What you built and why it matters.</em>
-
-<em>✏️ What you built and why it matters.</em>
-
-<em>✏️ What you built and why it matters.</em>
-
-<a href="https://github.com/adencw1?tab=repositories">
-<img src="https://img.shields.io/badge/EXPLORE_REPO-07050C?style=for-the-badge&logo=github&logoColor=white" />
-</a>
-
-</td>
-</tr>
+  <tr>
+    <td width="28%" align="center">
+      <!-- 원하는 이미지로 교체: ./assets/me.png 처럼 저장소에 올려서 경로 지정 -->
+      <img src="https://github.com/USERNAME.png?size=200" width="160" alt="profile" />
+    </td>
+    <td>
+      <b>Hey there! I'm [Your Name]</b>
+      <br><br>
+      I'm a computer science student diving deep into software development.
+      <br><br>
+      By day, I'm mastering data structures and algorithms, and writing code in <b>Python, C, and C++</b>.
+      <br><br>
+      When I'm not building web applications, you can usually find me solving a 3x3 Rubik's cube or tracking the latest match stats.
+      <br><br>
+      ⚙️ <b>Tech Stack:</b>
+      <br>
+      <img src="https://img.shields.io/badge/PYTHON-1f6feb?style=for-the-badge&logo=python&logoColor=white" alt="Python" />
+      <img src="https://img.shields.io/badge/C-1f6feb?style=for-the-badge&logo=c&logoColor=white" alt="C" />
+      <img src="https://img.shields.io/badge/C++-1f6feb?style=for-the-badge&logo=cplusplus&logoColor=white" alt="C++" />
+      <!-- 추가 예시:
+      <img src="https://img.shields.io/badge/JAVA-1f6feb?style=for-the-badge&logo=openjdk&logoColor=white" alt="Java" />
+      <img src="https://img.shields.io/badge/JAVASCRIPT-1f6feb?style=for-the-badge&logo=javascript&logoColor=white" alt="JavaScript" />
+      -->
+    </td>
+  </tr>
 </table>
 
-<details>
-<summary><b><em>✏️ What you built and why it matters.</em></b></summary>
+<!-- ───────────── Top Projects ───────────── -->
+## 🔗 Top Projects (built to avoid manual labor)
 
-<br/>
+<table>
+  <tr>
+    <td>
+      <ul>
+        <li>
+          <a href="https://github.com/USERNAME/project-one"><b>PROJECT ONE</b></a>
+          &nbsp;Secure user login and backend validation, because some code needs to self-destruct gracefully.
+        </li>
+        <br>
+        <li>
+          <a href="https://github.com/USERNAME/project-two"><b>PROJECT TWO</b></a>
+          &nbsp;A collection of Python scripts that run purely on faith, caffeine, and a lot of print statements.
+        </li>
+      </ul>
+    </td>
+    <td width="20%" align="center">
+      <img src="https://skillicons.dev/icons?i=git,github,vscode,python&theme=dark&perline=2" width="100" alt="tools" />
+    </td>
+  </tr>
+</table>
 
-**willow**
+<!-- ───────────── Connect ───────────── -->
+## 🔗 Connect
 
-<em>✏️ What you built and why it matters.</em>
+<p align="center">
+  <a href="https://github.com/USERNAME"><img src="https://img.shields.io/badge/GITHUB-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" /></a>
+  <a href="https://www.linkedin.com/in/USERNAME"><img src="https://img.shields.io/badge/LINKEDIN-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
+  <a href="https://x.com/USERNAME"><img src="https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white" alt="X" /></a>
+  <a href="mailto:you@proton.me"><img src="https://img.shields.io/badge/PROTONMAIL-6D4AFF?style=for-the-badge&logo=protonmail&logoColor=white" alt="ProtonMail" /></a>
+  <a href="mailto:you@gmail.com"><img src="https://img.shields.io/badge/GMAIL-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail" /></a>
+</p>
 
-[Explore repository](https://github.com/adencw1?tab=repositories)
+> Code is never finished. It only becomes slightly less terrible over time.
+>
+> Every commit I make is essentially just a small, desperate apology to my future self. Someday I will return to this codebase, look at the spaghetti I've written, and wonder who let me anywhere near a keyboard.
 
-**Wal-site**
+<br>
 
-<em>✏️ What you built and why it matters.</em>
+<!-- ───────────── Contribution ───────────── -->
+## 🔗 Contribution
 
-[Explore repository](https://github.com/adencw1?tab=repositories)
-
-</details>
-
----
-
-## 04. currently building
-
-<div align="center">
-
-### YAPPA
-
-<em>✏️ Say this in your own words.</em>
-
-<em>✏️ Say this in your own words.</em>
-
-<img src="https://img.shields.io/badge/STATUS-BUILDING-A66CCD?style=for-the-badge&labelColor=07050C" alt="Building" />
-
-<br/><br/>
-
-<a href="https://heyyappa.com">
-<img src="https://img.shields.io/badge/MEET_YAPPA-C59BFF?style=for-the-badge&logoColor=07050C" alt="Yappa website" />
-</a>
-
-</div>
-
----
-
-## 05. github activity
-
-<div align="center">
-
-<picture>
-  <source media="(prefers-color-scheme: light)" srcset="https://github-readme-stats.vercel.app/api?username=adencw1&show_icons=true&hide_border=true&bg_color=FFF8EF&title_color=743C91&text_color=3D0F3F&icon_color=743C91&ring_color=A66CCD" />
-  <img src="https://github-readme-stats.vercel.app/api?username=adencw1&show_icons=true&hide_border=true&bg_color=07050C&title_color=C59BFF&text_color=E8D7FF&icon_color=C59BFF&ring_color=A66CCD" width="49%" alt="Mewtu GitHub statistics" />
-</picture>
-
-<picture>
-  <source media="(prefers-color-scheme: light)" srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=adencw1&layout=compact&hide_border=true&bg_color=FFF8EF&title_color=743C91&text_color=3D0F3F" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=adencw1&layout=compact&hide_border=true&bg_color=07050C&title_color=C59BFF&text_color=E8D7FF" width="49%" alt="Most used languages" />
-</picture>
-
-<br/><br/>
-
-<h3>MEWTU CONTRIBUTION TRAIL</h3>
-
-<!---->
-
-<br/><br/>
-
-<picture>
-  <source media="(prefers-color-scheme: light)" srcset="https://streak-stats.demolab.com?user=adencw1&theme=default&hide_border=true&background=FFF8EF&ring=743C91&fire=A66CCD&currStreakLabel=743C91&sideLabels=3D0F3F&dates=743C91" />
-  <img src="https://streak-stats.demolab.com?user=adencw1&theme=dark&hide_border=true&background=07050C&ring=C59BFF&fire=A66CCD&currStreakLabel=C59BFF&sideLabels=E8D7FF&dates=B89AD8" width="75%" alt="GitHub contribution streak" />
-</picture>
-
-</div>
-
----
-
-## 06. beyond github
-
-<em>✏️ Say this in your own words.</em>
-
-<em>✏️ Say this in your own words.</em>
-
-<em>✏️ Say this in your own words.</em>
-
-<em>✏️ Say this in your own words.</em>
-
-<em>✏️ Say this in your own words.</em>
-
-<em>✏️ Say this in your own words.</em>
-
-<div align="center">
-
-<a href="https://heyyappa.com">
-<img src="https://img.shields.io/badge/YAPPA-07050C?style=for-the-badge" />
-</a>
-<a href="https://junohauz.xyz">
-<img src="https://img.shields.io/badge/JUNOHAUZ-A66CCD?style=for-the-badge" />
-</a>
-<a href="https://luma.com/user/mews">
-<img src="https://img.shields.io/badge/EVENTS-C59BFF?style=for-the-badge" />
-</a>
-
-</div>
-
----
-
-<div align="center">
-
-## 07. let's make something useful
-
-<em>✏️ Say this in your own words.</em>
-<em>✏️ Say this in your own words.</em>
-
-<br/>
-
-<!---->
-
-<br/>
-
-<a href="https://github.com/adencw1">GitHub</a> · <a href="https://x.com/your-handle">X</a>
-
-<br/><br/>
-
-<em>✏️ Say this in your own words.</em>
-
-<sub><em>✏️ Say this in your own words.</em> <!----> </sub>
-
-<br/><br/>
-
-<img src="https://capsule-render.vercel.app/api?type=waving&height=110&section=footer&color=0:07050C,50:3D0F3F,100:C59BFF" width="100%" alt="Footer" />
-
-</div>
-
-<p align="center"><sub>aden · <a href="https://www.gitskins.com/readme-generator?template=community-not-your-average-readme-40hi">Not Your Average README</a> template by <a href="https://www.gitskins.com/creators/baddiecodes">@baddiecodes</a> · generated with <a href="https://www.gitskins.com/readme-generator">GitSkins</a></sub></p>
+<p align="center">
+  <img width="100%" alt="Contribution Graph" src="https://github-readme-activity-graph.vercel.app/graph?username=USERNAME&bg_color=0d1117&color=58a6ff&line=58a6ff&point=c9d1d9&area=true&area_color=1f6feb&title_color=58a6ff&hide_border=false&custom_title=USERNAME%27s%20Contribution%20Graph" />
+</p>
