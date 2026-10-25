@@ -16,7 +16,7 @@
 
 👥 **0** followers · **0** following
 
-## Tools I’m practicing
+## Tools
 
 - Python, Javascript, html, css, c++, node.js
 
