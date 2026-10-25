@@ -12,11 +12,11 @@
 
 <!-- ───────────── 타이틀 ───────────── -->
 <hr>
-<h1 align="center">Im aden]</h1>
+<h1 align="center">Im aden</h1>
 <hr>
 
 <!-- ───────────── Know About Me ───────────── -->
-## 🔗 Know About Me
+## # about me
 
 <table>
   <tr>
@@ -25,11 +25,11 @@
       <img src="https://github.com/USERNAME.png?size=200" width="160" alt="profile" />
     </td>
     <td>
-      <b>Hey there! I'm [Your Name]</b>
+      <b>I'm aden</b>
       <br><br>
-      I'm a computer science student diving deep into software development.
+      web development, cyber security
       <br><br>
-      By day, I'm mastering data structures and algorithms, and writing code in <b>Python, C, and C++</b>.
+      By day, I'm mastering data structures and algorithms, and writing code in <b>Python, javascript, and C++</b>.
       <br><br>
       When I'm not building web applications, you can usually find me solving a 3x3 Rubik's cube or tracking the latest match stats.
       <br><br>
