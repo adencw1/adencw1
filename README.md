@@ -1,6 +1,6 @@
 ## about me
 
-안녕하세요, 웹 개발과 사이버 보안을 중심으로 다루는 aden입니다. 
+안녕하세요 aden입니다.
 
 ## bio
 
@@ -9,7 +9,7 @@
 
 
 
-**0** followers · **0** following
+**0** followers · **1** following
 
 ## Tools
 
